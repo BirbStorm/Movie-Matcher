@@ -1,8 +1,9 @@
-Movie Matcher
-Sean Passmore
-Sean Northcutt
-Caleb Pierce
-Andrew Russell
+#Movie Matcher
+
+###Sean Passmore
+###Sean Northcutt
+###Caleb Pierce
+###Andrew Russell
 
 To use the GUI through the terminal you need to follow these steps:
 
@@ -17,8 +18,9 @@ To use the GUI through the terminal you need to follow these steps:
 5. Unzip the attached file and copy the .jar inside and paste it in the lib\ext folder for your JRE C:\Program Files\Java\jre1.8.0_211\lib\ext was the location of mine
 
 6. Open your terminal and run these commands to run the GUI
-
+```terminal
 cd path\to\java\files
 (EX. cd D:\Pictures\Movie_Matcher (this was where mine was located))
 javac PickerRunner.java Main.java Controller.java
-java Main`
+java Main
+```
